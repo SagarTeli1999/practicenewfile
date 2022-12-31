@@ -1,0 +1,22 @@
+{
+  "name": "practicenewfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarTeli1999/practicenewfile.git"
+  },
+  "author": "sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarTeli1999/practicenewfile/issues"
+  },
+  "homepage": "https://github.com/SagarTeli1999/practicenewfile#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
